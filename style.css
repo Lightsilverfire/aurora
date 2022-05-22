@@ -12,7 +12,7 @@
     height:1000px;
     width: 1000px;
     position:absolute;
-    /*filter:blur(100px) saturate(3);*/
+    filter:blur(100px) saturate(3);
 
   }
   #auroraBlock1{
